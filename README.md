@@ -47,7 +47,7 @@ pip install requests colorama
 
 ```bash
 git clone https://github.com/bangladeshcyberspectre/BruteForce.git
-cd bruteforce
+cd BruteForce
 pip install -r requirements.txt
 ```
 
